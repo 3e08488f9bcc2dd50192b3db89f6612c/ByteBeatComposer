@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Extensions">
+      <HintPath>..\..\..\..\Desktop\dnspy\64\bin\System.Windows.Extensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
