@@ -1,2 +1,2 @@
 # Introduction
-A small program that composes a bytebeat. I was lazy and forgot about this.
+A simple program that interpreters bytebeat written in C#.
